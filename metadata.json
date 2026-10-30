@@ -1,0 +1,6 @@
+{
+  "name": "SENA Inducción - Sistema de Gestión y Apropiación Institucional",
+  "description": "Plataforma integral para la inducción de aprendices del SENA: identidad institucional, derechos, deberes, bienestar, evaluación interactiva de conocimientos y gestión para instructores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
